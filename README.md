@@ -1,3 +1,3 @@
 # ModulTrade's Public Documents
 
-1. White Paper
+1. White Paper (Eng)
